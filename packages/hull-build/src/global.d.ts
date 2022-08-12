@@ -1,6 +1,0 @@
-declare module 'source-map-loader'
-declare module 'webpack-bundle-analyzer'
-declare module 'rimraf'
-declare module 'koa-static'
-declare module 'webpackbar'
-declare module 'postcss-preset-env'
